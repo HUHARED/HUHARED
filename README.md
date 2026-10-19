@@ -41,4 +41,6 @@ My work has covered business process and requirements analysis, solution design,
 
 ## Opportunities
 
-I'm currently open to full-time RPA, automation and software development opportunities in Australia.
+I'm open to full-time RPA, automation, and software development opportunities in **Australia, China, and other countries** offering long-term career prospects.
+
+For opportunities outside China, I'm willing to relocate and would need support with obtaining the appropriate work visa or permit.
