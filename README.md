@@ -17,9 +17,13 @@ The toolchain includes:
 - reusable Components packaged as Python Wheels;
 - PEP 440 dependency resolution and exact dependency locking;
 - integrated Editor, Project Manager, Snippets Tree and UI Analyzer tooling;
-- local execution, runtime diagnostics and structured logging.
+- local execution and scheduling, runtime diagnostics and structured logging;
+- centralized scheduling, run monitoring and shared resources through LiberRPA Console;
+- HTTP API integration with other systems.
 
-Version **0.3.0** is now available.
+Version **0.4.0** is now available.
+
+LiberRPA Console is open source. You can use the free [hosted service](https://console.liberrpa.com) or deploy it yourself.
 
 [Explore LiberRPA →](https://github.com/HUHARED/LiberRPA)
 
@@ -27,6 +31,7 @@ Version **0.3.0** is now available.
 
 - RPA and production automation architecture
 - Python automation and reusable component design
+- Full-stack development with Python, Django and Vue
 - Visual workflow and code integration
 - Windows UI and browser automation
 - Enterprise system and database integration
@@ -35,12 +40,20 @@ Version **0.3.0** is now available.
 
 ## Commercial Experience
 
-Before focusing on LiberRPA, I delivered commercial automation projects using UiPath, Encoo and UiBot.
+I started teaching myself RPA in September 2020 and began using it in my work. I've worked mainly at consulting firms, delivering commercial automation projects using UiPath, Encoo and UiBot.
 
 My work has covered business process and requirements analysis, solution design, automation development, reusable components, enterprise integration, testing, deployment, production support, technical documentation and client training.
 
+Much of my growth has also come from learning on my own. I enjoy learning new skills and turning what I learn into working software. LiberRPA is a practical example of that.
+
 ## Opportunities
 
-I'm open to full-time RPA, automation, and software development opportunities in **Australia, China, and other countries** offering long-term career prospects.
+I'm looking for a full-time role in RPA, automation or full-stack development, working with Python, Vue and Django.
 
-For opportunities outside China, I'm willing to relocate and would need support with obtaining the appropriate work visa or permit.
+I'm currently based in mainland China and open to opportunities in **Australia, China, and other countries** offering long-term career prospects.
+
+I'm willing to relocate. For opportunities outside China, I would need support with obtaining the appropriate work visa or permit.
+
+My public code and documentation show how I approach software design and development. If you think my experience could help your team, I'd be happy to talk about the role and how I could contribute.
+
+You can reach me at [mailwork.hu@gmail.com](mailto:mailwork.hu@gmail.com).
