@@ -40,7 +40,7 @@ LiberRPA Console is open source. You can use the free [hosted service](https://c
 
 ## Commercial Experience
 
-I started teaching myself RPA in September 2020 and began using it in my work. I've worked mainly at consulting firms, delivering commercial automation projects using UiPath, Encoo and UiBot.
+I started teaching myself RPA in September 2020 and began using it in my work. I've worked mainly at consulting firms, delivering commercial automation projects using UiPath, Encoo and UiBot. I have a solid understanding of RPA architecture and core concepts, so I can quickly learn and work with new RPA platforms.
 
 My work has covered business process and requirements analysis, solution design, automation development, reusable components, enterprise integration, testing, deployment, production support, technical documentation and client training.
 
